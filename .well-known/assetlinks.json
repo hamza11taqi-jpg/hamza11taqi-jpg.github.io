@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.hamza11taqi_jpg.twa",
+      "sha256_cert_fingerprints": [
+        "53:B1:6D:F8:BA:B9:82:5C:70:D9:48:FF:C8:24:A0:F1:51:E8:52:5B:BF:19:BA:C3:5A:B2:41:59:25:4A:80:A9"
+      ]
+    }
+  }
+]
